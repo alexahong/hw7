@@ -1,0 +1,16 @@
+Script started on Fri 24 Mar 2017 03:15:44 PM EDT
+jwherry@pu1:~/2401/Labs/lab9$ ./a.out
+Please enter an expression; enter 'q' to quit:  12 679 5 + 4 * 8 / +
+Answer: 354
+Please enter an expression; enter 'q' to quit:  34 6 + 16 * 18 -
+Answer: 622
+Please enter an expression; enter 'q' to quit:  12 6 - 8 + 7 * +
+Error
+Please enter an expression; enter 'q' to quit:  56 78 84 + 33 *
+13
+Please enter an expression; enter 'q' to quit:  99 12 + 6 + 9 /
+31536000
+Please enter an expression; enter 'q' to quit:  q
+jwherry@pu1:~/2401/Labs/lab9$ exit
+
+Script done on Fri 24 Mar 2017 03:17:28 PM EDT
