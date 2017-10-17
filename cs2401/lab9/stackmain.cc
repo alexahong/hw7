@@ -1,3 +1,10 @@
+/** @file stackmain.cc
+ * @brief
+ * manipulates a calculator application by using a stack
+ * and other functions to traverse/change the stacks data
+ * @author Jason Wherry
+ */
+
 /*****************************************************************
 	Author: Jason Wherry	Date: 3-24-17	Class: CS 2401
 
